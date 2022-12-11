@@ -1,6 +1,6 @@
 1 line
-2 
-3
+2 step 
+3 18
 4 ano
 5 ther
 6
